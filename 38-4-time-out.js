@@ -26,5 +26,5 @@ setTimeout(() => {
 console.log("fourth: ami sobar age");
 //setTimeout
 //==============================================
-//setTimeout will execute at the last when all being executed.
+//setTimeout will execute at the last if there is no time parameter.
 //setTimeout will execute the code after the time end here "5000" id equivalent to 5 sec. 
